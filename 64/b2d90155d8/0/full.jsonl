@@ -1,0 +1,3 @@
+{"type":"message","id":"1","message":{"role":"user","content":"verify trailer flow"}}
+{"type":"message","id":"2","message":{"role":"assistant","content":[{"type":"toolCall","id":"tool-1","name":"write","arguments":{"path":"pi-proof.txt"}}],"usage":{"input_tokens":10,"output_tokens":3}}}
+{"type":"message","id":"3","message":{"role":"toolResult","toolName":"write","toolCallId":"tool-1","details":{"path":"pi-proof.txt"}}}
