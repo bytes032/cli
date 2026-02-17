@@ -1,0 +1,27 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "7d50e14225b2",
+  "strategy": "manual-commit",
+  "branch": "pi-integration",
+  "checkpoints_count": 0,
+  "files_touched": [
+    "cmd/entire/cli/agent/pi/lifecycle.go",
+    "cmd/entire/cli/agent/pi/lifecycle_test.go",
+    "cmd/entire/cli/hooks_claudecode_handlers.go",
+    "cmd/entire/cli/hooks_geminicli_handlers.go",
+    "cmd/entire/cli/hooks_pi_handlers.go",
+    "cmd/entire/cli/integration_test/pi_before_compact_hook_test.go",
+    "cmd/entire/cli/rewind_test.go",
+    "cmd/entire/cli/sessionid/sessionid.go",
+    "cmd/entire/cli/sessionid/sessionid_test.go"
+  ],
+  "sessions": [
+    {
+      "metadata": "/7d/50e14225b2/0/metadata.json",
+      "transcript": "/7d/50e14225b2/0/full.jsonl",
+      "context": "",
+      "content_hash": "/7d/50e14225b2/0/content_hash.txt",
+      "prompt": ""
+    }
+  ]
+}
