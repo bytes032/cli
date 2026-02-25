@@ -1,0 +1,27 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "d537996f6d47",
+  "session_id": "test",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-25T13:31:05.373054Z",
+  "branch": "pi-integration",
+  "checkpoints_count": 0,
+  "files_touched": [
+    "PLAN.md",
+    "cmd/entire/cli/integration_test/pi_leaf_persistence_test.go",
+    "cmd/entire/cli/integration_test/pi_session_lifecycle_test.go",
+    "cmd/entire/cli/integration_test/pi_state_helpers_test.go",
+    "cmd/entire/cli/integration_test/pi_transcript_capture_test.go"
+  ],
+  "agent": "Mock Lifecycle Agent",
+  "turn_id": "f3982e8cc0a6",
+  "initial_attribution": {
+    "calculated_at": "2026-02-25T13:31:05.244912Z",
+    "agent_lines": 719,
+    "human_added": 17717,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 18436,
+    "agent_percentage": 3.899978303319592
+  }
+}

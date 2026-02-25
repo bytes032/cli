@@ -1,0 +1,23 @@
+{
+  "cli_version": "dev",
+  "checkpoint_id": "d537996f6d47",
+  "strategy": "manual-commit",
+  "branch": "pi-integration",
+  "checkpoints_count": 0,
+  "files_touched": [
+    "PLAN.md",
+    "cmd/entire/cli/integration_test/pi_leaf_persistence_test.go",
+    "cmd/entire/cli/integration_test/pi_session_lifecycle_test.go",
+    "cmd/entire/cli/integration_test/pi_state_helpers_test.go",
+    "cmd/entire/cli/integration_test/pi_transcript_capture_test.go"
+  ],
+  "sessions": [
+    {
+      "metadata": "/d5/37996f6d47/0/metadata.json",
+      "transcript": "/d5/37996f6d47/0/full.jsonl",
+      "context": "",
+      "content_hash": "/d5/37996f6d47/0/content_hash.txt",
+      "prompt": ""
+    }
+  ]
+}
